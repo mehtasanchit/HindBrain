@@ -4,9 +4,7 @@
 
 ---
 
-## 🌐 Live Link (optional)
-
-[🔗 HindBrain GitHub Repo](https://github.com/mehtasanchit/HindBrain/tree/master)
+## 🌐 [🔗 HindBrain GitHub Repo](https://github.com/mehtasanchit/HindBrain/tree/master)
 
 ---
 
