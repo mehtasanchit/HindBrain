@@ -15,7 +15,7 @@
 - 📌 Organize by title, tags, and type
 - 🧠 Copy, share, and view notes instantly
 - 🎨 Beautiful, responsive UI built with TailwindCSS
-- 🧩 Built with **MERN Stack** (MongoDB, Express, React, Node.js)
+- 🧩 Built with **MERN Stack** (MongoDB, Express, React, Node.js,Typescript)
 
 ---
 
